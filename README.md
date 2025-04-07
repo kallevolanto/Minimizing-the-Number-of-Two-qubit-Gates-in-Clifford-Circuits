@@ -37,3 +37,6 @@ D. Maslov and M. Roetteler, “Shorter stabilizer circuits via bruhat decomposit
 S. Aaronson and D. Gottesman, “Improved simulation of stabilizer circuits, ”Physical Review A, vol. 70, no. 5, p. 052328, 2004.
 
 G. Strang, “Fast transforms: Banded matrices with banded inverses,” Proceedings of the National Academy of Sciences, vol. 107, no. 28, pp. 12413–12416, 2010.
+
+
+# gf2rref.m (modified by nrenga) taken from https://github.com/nrenga/symplectic-arxiv18a/tree/master (original from https://gist.github.com/esromneb/652fed46ae328b17e104)
